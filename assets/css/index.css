@@ -37,7 +37,7 @@ main {
 }
 .pic{
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
 }
 .pic i{
